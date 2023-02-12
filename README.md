@@ -22,5 +22,6 @@ _15/07/2022 recommend to use with ahk hider aka hyde.dll to be safer_
 * Added the hyde.dll code to hide the process in task manager (NoRecoilScript & NoRecoilScript-Old-From-PACHARA).
 * Replace the r99 pattern with car since I use it a lot (NoRecoilScript).
 * Replaced the R301 pattern by another pattern more accurate IMO than the last one (NoRecoilScript).
+* Whenever you change your sens, you have to update it in the .ahk file too to be consistent.
 
 
